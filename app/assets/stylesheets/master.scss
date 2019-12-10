@@ -1,0 +1,19 @@
+@import "bootstrap";
+
+body {
+
+  background: url('BMVkFl.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar {
+  box-shadow: 0px 1px 3px #2a2a2a;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #CE0431;
+}
+
